@@ -47,3 +47,6 @@ console.log(y) //scoped
 console.log(z) //scoped
 }
 console.log(x) // not scoped
+
+//==============================================================================
+
